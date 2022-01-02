@@ -9,6 +9,6 @@
 
 Welcome to our Github where we share various projects that we are working on!
 
-Be sure to check out the **[Meeting Content](https://github.com/WoodlandsComputerScience/MeetingContent)** to have an overview of all our past meetings as well as links to various presentations and lessons!
+Be sure to check out the **[Meeting Content](https://github.com/WoodlandsComputerScience/MeetingContent)** respository to have an overview of all our past meeting topics as well as links to various presentations, lessons and questions!
 
 
